@@ -1,0 +1,342 @@
+Usuario:abc
+Entrada:Sat Sep 28 21:24:32 BRT 2019
+Codigo de Segurança:sJVijhXA5Z
+Saida:Sat Sep 28 21:25:46 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:teste
+Entrada:Sun Sep 29 00:25:41 BRT 2019
+Codigo de Segurança:W29WqBCxPu
+Saida:Sun Sep 29 00:27:07 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:abc
+Entrada:Sun Sep 29 17:36:54 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Sun Sep 29 17:48:19 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Sun Sep 29 17:48:48 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Sun Sep 29 17:54:44 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Sun Sep 29 21:13:02 BRT 2019
+Codigo de Segurança:
+Saida:Sun Sep 29 21:14:14 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:abc
+Entrada:Sun Sep 29 21:27:09 BRT 2019
+Codigo de Segurança:
+Saida:Sun Sep 29 21:28:14 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:abc
+Entrada:Sun Sep 29 22:20:50 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Sun Sep 29 22:22:32 BRT 2019
+Codigo de Segurança:
+Saida:Sun Sep 29 22:23:42 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:abc
+Entrada:Sun Sep 29 22:24:23 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Sun Sep 29 22:25:05 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Sun Sep 29 22:29:10 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Sun Sep 29 22:31:33 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Sun Sep 29 22:32:18 BRT 2019
+Codigo de Segurança:
+Saida:Sun Sep 29 22:33:19 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:abc
+Entrada:Sun Sep 29 22:38:56 BRT 2019
+Codigo de Segurança:
+Saida:Sun Sep 29 22:39:59 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:abc
+Entrada:Sun Sep 29 22:40:42 BRT 2019
+Codigo de Segurança:
+Saida:Sun Sep 29 22:41:48 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:abc
+Entrada:Sun Sep 29 22:42:28 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Sun Sep 29 22:43:52 BRT 2019
+Codigo de Segurança:
+Saida:Sun Sep 29 22:45:14 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:abc
+Entrada:Sun Sep 29 22:51:25 BRT 2019
+Codigo de Segurança:
+Usuario:Edu1
+Entrada:Mon Sep 30 11:41:15 BRT 2019
+Codigo de Segurança:qwztXMcVZ6BJWlb6xMeH
+Usuario:abc
+Entrada:Mon Sep 30 11:55:05 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Mon Sep 30 12:08:44 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Mon Sep 30 12:11:30 BRT 2019
+Codigo de Segurança:
+Saida:Mon Sep 30 12:12:15 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:edu
+Entrada:Mon Sep 30 12:15:07 BRT 2019
+Codigo de Segurança:gVC5wxUNZ3
+Saida:Mon Sep 30 12:15:51 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:abc
+Entrada:Tue Oct 01 07:42:50 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Tue Oct 01 07:43:52 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 07:44:57 BRT 2019
+Tempo de jogo em minutos:1
+Saida:Tue Oct 01 07:45:39 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:abc
+Entrada:Tue Oct 01 07:47:02 BRT 2019
+Codigo de Segurança:
+Usuario:abc
+Entrada:Tue Oct 01 07:56:31 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 07:57:25 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:abc
+Entrada:Tue Oct 01 08:10:54 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 08:11:38 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:abc
+Entrada:Tue Oct 01 08:14:26 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 08:15:11 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:abc
+Entrada:Tue Oct 01 08:19:52 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 08:20:33 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:joao
+Entrada:Tue Oct 01 08:27:31 BRT 2019
+Codigo de Segurança:cOPTmSGS3c
+Saida:Tue Oct 01 08:28:10 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:abc
+Entrada:Tue Oct 01 08:31:06 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 08:46:10 BRT 2019
+Codigo de Segurança:N54pWNr2NBeUaB5wLfgB
+Usuario:joao
+Entrada:Tue Oct 01 08:48:36 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 08:49:24 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:joao
+Entrada:Tue Oct 01 08:50:50 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 08:50:52 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 08:51:36 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:joao
+Entrada:Tue Oct 01 08:54:47 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 08:55:24 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:joao
+Entrada:Tue Oct 01 08:59:34 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 09:00:25 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:joao
+Entrada:Tue Oct 01 09:02:57 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 09:03:51 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:joao
+Entrada:Tue Oct 01 09:09:43 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 09:10:21 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:joao
+Entrada:Tue Oct 01 09:13:13 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 09:13:48 BRT 2019
+Tempo de jogo em minutos:0
+Saida:Tue Oct 01 09:15:05 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:joao
+Entrada:Tue Oct 01 09:25:24 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 09:26:08 BRT 2019
+Tempo de jogo em minutos:0
+Saida:Tue Oct 01 09:26:56 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:joao
+Entrada:Tue Oct 01 09:28:27 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 09:29:05 BRT 2019
+Tempo de jogo em minutos:0
+Usuario:joao
+Entrada:Tue Oct 01 09:32:35 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 09:32:37 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 09:33:39 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:joao
+Entrada:Tue Oct 01 09:41:59 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 09:42:01 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 09:42:40 BRT 2019
+Tempo de jogo em minutos:0
+Saida:Tue Oct 01 09:44:07 BRT 2019
+Tempo de jogo em minutos:2
+Usuario:joao
+Entrada:Tue Oct 01 09:59:10 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 10:12:50 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 10:13:15 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 10:14:55 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 10:15:24 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 10:17:48 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 10:18:31 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 17:38:28 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 17:40:42 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 17:46:12 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 18:03:49 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 18:05:43 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 18:06:24 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 18:13:03 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 18:14:07 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 18:17:58 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 18:25:41 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 18:26:11 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 18:27:09 BRT 2019
+Codigo de Segurança:
+Usuario:joao
+Entrada:Tue Oct 01 18:37:01 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 18:38:11 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:joao
+Entrada:Tue Oct 01 18:43:58 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 18:45:09 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:joao
+Entrada:Tue Oct 01 18:48:07 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 18:49:21 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:joao
+Entrada:Tue Oct 01 18:50:39 BRT 2019
+Codigo de Segurança:
+Saida:Tue Oct 01 18:52:32 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:edu1
+Entrada:Tue Oct 01 18:54:40 BRT 2019
+Codigo de Segurança:pH4QJ2Xoq6
+Saida:Tue Oct 01 18:56:02 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:joao
+Entrada:Wed Oct 02 19:20:15 BRT 2019
+Codigo de Segurança:
+Saida:Wed Oct 02 19:22:38 BRT 2019
+Tempo de jogo em minutos:2
+Usuario:joao
+Entrada:Wed Oct 02 19:25:47 BRT 2019
+Codigo de Segurança:
+Usuario:edu1
+Entrada:Wed Oct 02 19:30:14 BRT 2019
+Codigo de Segurança:
+Saida:Wed Oct 02 19:31:25 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:edu1
+Entrada:Wed Oct 02 19:40:55 BRT 2019
+Codigo de Segurança:
+Saida:Wed Oct 02 19:42:48 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:edu1
+Entrada:Wed Oct 02 19:55:13 BRT 2019
+Codigo de Segurança:
+Saida:Wed Oct 02 19:56:45 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:edu2
+Entrada:Wed Oct 02 20:00:56 BRT 2019
+Codigo de Segurança:ME59dGH8LK
+Saida:Wed Oct 02 20:02:05 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:edu2
+Entrada:Wed Oct 02 20:02:46 BRT 2019
+Codigo de Segurança:null
+Saida:Wed Oct 02 20:03:57 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:edu4
+Entrada:Wed Oct 02 20:07:17 BRT 2019
+Codigo de Segurança:null67HK7tEVyn
+Saida:Wed Oct 02 20:08:23 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:edu4
+Entrada:Wed Oct 02 20:08:45 BRT 2019
+Codigo de Segurança:null
+Saida:Wed Oct 02 20:09:59 BRT 2019
+Tempo de jogo em minutos:1
+Usuario:joao
+Entrada:Wed Oct 02 20:24:49 BRT 2019
+Usuario:joao
+Entrada:Wed Oct 02 20:28:26 BRT 2019
+Saida:Wed Oct 02 20:30:11 BRT 2019
+Tempo de jogo em minutos:1
